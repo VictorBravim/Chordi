@@ -1,22 +1,30 @@
 # Chordi
 ![Sem título](https://github.com/VictorBravim/Chordi/assets/122113588/f162064c-b696-4183-b67f-368b1c7fb005)
-Documentação do Projeto - Chordi
+
+# <code>Documentação do Projeto</code>
+
 Este documento oferece uma visão geral do projeto Chordi, um website dedicado à celebração da música e das experiências sonoras. A estrutura do código utiliza o pré-processador SCSS para estilização.
 
-Estrutura do Projeto
-Arquivos e Diretórios
+## Estrutura do Projeto
+
+## Arquivos e Diretórios
+
 index.html: Página principal do site.
 style.scss: Folha de estilos SCSS que define a aparência visual do site.
 script.js: Script JavaScript que fornece funcionalidades interativas.
 img: Diretório que contém as imagens utilizadas no site.
 assets: Diretório que pode conter outros recursos, como fontes ou arquivos adicionais.
-HTML
-Documento Principal (index.html)
-O arquivo HTML é estruturado em seções que representam diferentes partes do site:
 
+## HTML
+
+Documento Principal (index.html)
+
+O arquivo HTML é estruturado em seções que representam diferentes partes do site:
 Header: Contém as meta tags, links para estilos e a tag de título do site.
 Body: Contém o conteúdo visível do site, dividido em seções, como o cabeçalho (hero), navegação (nav), e conteúdo principal (main).
-SCSS
+
+## SCSS
+
 Estilos Globais (style.scss)
 O SCSS define estilos globais para o site, incluindo:
 
