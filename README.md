@@ -68,7 +68,8 @@ O SCSS define estilos globais para o site, incluindo:
 - Pode conter lógica para manipulação do DOM, interações de usuário ou integração com APIs.
 
 ## <code>Execução Local</code>
-- Clone o repositório: git clone https://github.com/VictorBravim/Chordi
-- Abra o arquivo index.html em um navegador web.
+
+1. Clone o repositório: git clone https://github.com/VictorBravim/Chordi
+2. Abra o arquivo index.html em um navegador web.
 
 Espera-se que esta documentação forneça uma compreensão geral da estrutura e funcionalidades do projeto Chordi, utilizando SCSS para a estilização. Caso encontre problemas ou tenha sugestões de melhoria, sinta-se à vontade para contribuir ou abrir uma issue. Apreciamos sua colaboração!
